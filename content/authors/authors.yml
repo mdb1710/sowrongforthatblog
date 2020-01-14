@@ -1,20 +1,17 @@
-- name: Dennis Brotzky
+- name: Michael Bonner
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+    Musician, Marketer, Blogger etc.  Introvert who loves to talk when no one else is looking.
+  avatar: ./avatars/codephoto.jpeg
   social:
-    - url: https://unsplash.com
-    - url: https://stackoverflow.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
+    - url: https://sowrongforthat.com
+    - url: https://twitter.com/sowrong4that
+    - url: https://facebook.com/sowrongforthat
+    - url: https://instagram.com/sowrongforthat
   featured: true
 
-- name: Thiago Costa
+- name: Taylor Jansen
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
+    Writer and blogger in Georgia
   avatar: ./avatars/thiago-costa.png
   social:
     - url: https://unsplash.com
